@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Weak Priors</title>
+      <link>https://AADavin.github.io/weak-priors</link>
+      <description>Last 10 notes on Weak Priors</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://AADavin.github.io/weak-priors/</link>
+    <guid>https://AADavin.github.io/weak-priors/</guid>
+    <description><![CDATA[ Welcome to Weak Priors A place to share some thoughts Blablablabla. ]]></description>
+    <pubDate>Thu, 01 Jan 2026 17:30:16 GMT</pubDate>
+  </item><item>
+    <title>Test test2</title>
+    <link>https://AADavin.github.io/weak-priors/Test-test2</link>
+    <guid>https://AADavin.github.io/weak-priors/Test-test2</guid>
+    <description><![CDATA[ Helloooo. ]]></description>
+    <pubDate>Thu, 01 Jan 2026 17:27:18 GMT</pubDate>
+  </item><item>
+    <title>This is an extra test</title>
+    <link>https://AADavin.github.io/weak-priors/This-is-an-extra-test</link>
+    <guid>https://AADavin.github.io/weak-priors/This-is-an-extra-test</guid>
+    <description><![CDATA[ This is text text text Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ]]></description>
+    <pubDate>Thu, 01 Jan 2026 10:37:42 GMT</pubDate>
+  </item><item>
+    <title>Just a test file</title>
+    <link>https://AADavin.github.io/weak-priors/Just-a-test-file</link>
+    <guid>https://AADavin.github.io/weak-priors/Just-a-test-file</guid>
+    <description><![CDATA[ Hello world . ]]></description>
+    <pubDate>Sun, 28 Dec 2025 16:22:01 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
